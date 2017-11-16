@@ -1,0 +1,5 @@
+/Users/hennaheinonen/Projects/itsearviointitehtävä-1/itsearviointitehtävä-1/obj/x86/Debug/itsearviointitehtävä-1.csproj.CoreCompileInputs.cache
+/Users/hennaheinonen/Projects/itsearviointitehtävä-1/itsearviointitehtävä-1/bin/Debug/itsearviointitehtävä-1.exe
+/Users/hennaheinonen/Projects/itsearviointitehtävä-1/itsearviointitehtävä-1/bin/Debug/itsearviointitehtävä-1.pdb
+/Users/hennaheinonen/Projects/itsearviointitehtävä-1/itsearviointitehtävä-1/obj/x86/Debug/itsearviointitehtävä-1.exe
+/Users/hennaheinonen/Projects/itsearviointitehtävä-1/itsearviointitehtävä-1/obj/x86/Debug/itsearviointitehtävä-1.pdb
