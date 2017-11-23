@@ -6,7 +6,7 @@ namespace task4
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Ohjelma tulostaa kertotaulun luvuille 1-9");
+            Console.WriteLine("Ohjelma tulostaa kertotaulun luvuille 1-9.");
             int summa;
 
             for (int i = 1; i <= 9; i++)
@@ -17,7 +17,7 @@ namespace task4
                     Console.WriteLine($"{i} * {y} = {summa} ");
                 }    
             }
-            Console.ReadKey();
+
         }
     }
 }
