@@ -27,7 +27,7 @@ namespace funktio4
 				isNumber = int.TryParse(Console.ReadLine(), out number);
 				if (isNumber && number > 0)
 				{
-					output += number; // luodaan palaute esim 5 10 7 22 6 5 10 8 3 2
+                    output += $"{number} "; // luodaan palaute esim 5 10 7 22 6 5 10 8 3 2
 					if (max < number)
 					{
 						max = number;
@@ -42,6 +42,7 @@ namespace funktio4
 
 
 			}
+            Console.WriteLine($"Syötit seuraavat luvut:\n{output}\n");
 			return max;
 		}
 
